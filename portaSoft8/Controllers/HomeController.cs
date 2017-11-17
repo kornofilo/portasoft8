@@ -17,7 +17,7 @@ namespace portaSoft8.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Esta es la pagina principal con inormacion del Portafolio.";
 
             return View();
         }
